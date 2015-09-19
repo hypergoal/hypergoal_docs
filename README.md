@@ -1,4 +1,4 @@
-Hypergoal - goal oriented hypermedia workflow
+**Hypergoal** - goal oriented hypermedia workflow
 
 A system for which enables hypermedia clients to express a goal which the server directs them to achieve. This differs from traditional clients in which the server(s) generally do not have the context of what the client is trying to do.
 
