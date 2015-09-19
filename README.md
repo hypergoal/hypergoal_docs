@@ -99,11 +99,11 @@ planning:
     booking1(option1)
     booking2(option2)
 
-reconsiliation
+reconciliation
   executed-transition(booking)
 
 
 advice provider
 ranker
 planner
-reconsiler
+reconciler
