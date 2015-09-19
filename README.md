@@ -2,6 +2,8 @@
 
 A system for which enables hypermedia clients to express a goal which the server directs them to achieve. This differs from traditional clients in which the server(s) generally do not have the context of what the client is trying to do.
 
+*Note: This project was born during Hack Day at [RESTFEST 2015] (https://github.com/RESTFest/2015-Greenville/wiki/Goal-oriented-hypermedia-workflow)
+
 Sample use cases
 
 * Attending an event
