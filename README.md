@@ -16,15 +16,13 @@ Sample use cases
 * Misha put your info here :-)
 
 ## Why Care? Why do we need this? What is different?
-
-* Not top-down workflow
-* Clients focus on the goal rather than the rel
-* Additional workflows can be discovered as part of an existing workflow
+* We need to enable hypermedia clients to participate in complex and distributed business processes across multiple systems and vendors
+* Allows clients to focus on the goal rather than the rel
+* Additional workflows can be discovered as part of an existing workflow.
+* The workflow can change and evolve dynamically.
 * Allows work to be highly distributed across many systems
-* Can model complex business processes across multiple vendors
 * Does not require third party systems to be coordinated
 * Can build on existing standards
-* Client is in control
 
 ## How does it work? 
 
