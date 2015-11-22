@@ -15,7 +15,7 @@ Sample use cases
 * [Glenn Block] (https://github.com/glennblock)
 * [James Snell] (https://github.com/jasnell)
 * [Thomas Hovel] (https://github.com/thovell)
-* Misha put your info here :-)
+* [Michael (Misha) Shengaout] (https://github.com/RESTFest/2015-Greenville/wiki/Michael-Shengaout)
 
 ## Why Care? Why do we need this? What is different?
 * We need to enable hypermedia clients to participate in complex and distributed business processes across multiple systems and vendors
