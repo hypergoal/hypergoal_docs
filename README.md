@@ -2,7 +2,7 @@
 
 A system for which enables hypermedia clients to express a goal which the server directs them to achieve. This differs from traditional clients in which the server(s) generally do not have the context of what the client is trying to do.
 
-*Note: This project was born during Hack Day at [RESTFEST 2015] (https://github.com/RESTFest/2015-Greenville/wiki/Goal-oriented-hypermedia-workflow)
+*Note: This project was born during Hack Day at [RESTFEST 2015](https://github.com/RESTFest/2015-Greenville/wiki/Goal-oriented-hypermedia-workflow)
 
 Sample use cases
 
@@ -10,12 +10,12 @@ Sample use cases
 * Purchasing a house
 
 ## Team
-* [Anya Stettler] (https://github.com/anyarms)
-* [Daniel Yokomizo] (https://github.com/dyokomizo)
-* [Glenn Block] (https://github.com/glennblock)
-* [James Snell] (https://github.com/jasnell)
-* [Thomas Hovel] (https://github.com/thovell)
-* [Michael (Misha) Shengaout] (https://github.com/RESTFest/2015-Greenville/wiki/Michael-Shengaout)
+* [Anya Stettler](https://github.com/anyarms)
+* [Daniel Yokomizo](https://github.com/dyokomizo)
+* [Glenn Block](https://github.com/glennblock)
+* [James Snell](https://github.com/jasnell)
+* [Thomas Hovel](https://github.com/thovell)
+* [Michael (Misha) Shengaout](https://github.com/RESTFest/2015-Greenville/wiki/Michael-Shengaout)
 
 ## Why Care? Why do we need this? What is different?
 * We need to enable hypermedia clients to participate in complex and distributed business processes across multiple systems and vendors
